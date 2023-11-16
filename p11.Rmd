@@ -1,6 +1,6 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "Manas Tiwari"
+author: "Sagar gupta"
 date: "22.10.2018"
 output:
   slidy_presentation: default
@@ -19,7 +19,7 @@ widgets: bootstrap
 
 ### See the Regression Models Course Project  
 
-- URL: *https://github.com/manastiwari/Developing-Data-Products-Week-4-Course-Project*
+- URL: *https://github.com/sagar-gupta-2001/developing-data-product-week-4_2*
 - Find here all the data that have been use for this presentation and also for the first part of the data Science Project: "First, you will create a Shiny application and deploy it on Rstudio's servers.Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application."
 
 ### Find all details here
